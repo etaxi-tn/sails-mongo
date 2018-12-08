@@ -1,8 +1,9 @@
 # Sails-Mongo Changelog
 
+
 ### 0.12.4
 
-* [INTERNAL] Bump `mongodb` version for
+* [INTERNAL] Bump `mongodb` version to support MongoDB 3.6 and update connection options
 * [INTERNAL] Cleanup `.find()` and `.destroy()`.
 
 ### 0.12.2
